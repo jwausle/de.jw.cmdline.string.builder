@@ -3,7 +3,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" output="bin_test" path="test"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="con" path="aQute.bnd.classpath.container"/>
 	<classpathentry kind="lib" path="/Users/winter/Downloads/junit4.10/junit-4.10.jar" sourcepath="/Users/winter/Downloads/junit4.10/junit-4.10-src.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/Users/winter/Downloads/junit4.10/javadoc/"/>
