@@ -14,7 +14,7 @@ public class CmdlineStringBuilder_ {
 		@Override
 		public ExecutionResult<CmdlineVariableInterpreter> apply(String variable) {
 			if (variable == null) { 
-				String error = "variable must not be null.";
+				String error = "variable  must not be null.";
 				return ExecutionLog.error(error).<CmdlineVariableInterpreter> asExecutionResult(
 						new CmdlineVariableInterpreterError(error));
 			}
